@@ -1,5 +1,4 @@
 <!-- About me -->
-<link rel="stylesheet" href="./style.css">
 <h1>Willian Mahfud Watzko</h1>
 
 
