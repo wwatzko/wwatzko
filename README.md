@@ -1,4 +1,5 @@
 <!-- About me -->
+
 <h1>Willian Mahfud Watzko</h1>
 
 
@@ -12,8 +13,3 @@
 
 <h1>In development...</h1>
 
-<style>
-p. {
-color: Green
-}
-</style>
