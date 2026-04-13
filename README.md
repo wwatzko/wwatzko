@@ -11,4 +11,5 @@
   <img title="TypeScript" alt"TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img title="Angular" alt"Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white" />
   <img title="Python" alt"Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
